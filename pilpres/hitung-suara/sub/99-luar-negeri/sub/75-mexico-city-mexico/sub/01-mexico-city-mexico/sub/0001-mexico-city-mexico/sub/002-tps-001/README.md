@@ -4,7 +4,7 @@
 
 ```mermaid
 xychart-beta
-    title "Perolehan Suara Nasional"
+    title "Perolehan Suara TPS"
     x-axis [01, 02, 03]
     y-axis "Suara" 0 --> 46
     bar [10, 34, 46]
@@ -27,9 +27,9 @@ pie showData
 | 3   | GANJAR MAHFUD  | 46    | [46][p-3]   | 51,11      |
 
 
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/99-luar-negeri/sub/75-mexico-city-mexico/sub/01-mexico-city-mexico/sub/0001-mexico-city-mexico/sub/002-tps-001/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/99-luar-negeri/sub/75-mexico-city-mexico/sub/01-mexico-city-mexico/sub/0001-mexico-city-mexico/sub/002-tps-001/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/99-luar-negeri/sub/75-mexico-city-mexico/sub/01-mexico-city-mexico/sub/0001-mexico-city-mexico/sub/002-tps-001/sub/paslon-3.txt
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024-99-luar-negeri/blob/main/pilpres/hitung-suara/sub/99-luar-negeri/sub/75-mexico-city-mexico/sub/01-mexico-city-mexico/sub/0001-mexico-city-mexico/sub/002-tps-001/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024-99-luar-negeri/blob/main/pilpres/hitung-suara/sub/99-luar-negeri/sub/75-mexico-city-mexico/sub/01-mexico-city-mexico/sub/0001-mexico-city-mexico/sub/002-tps-001/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024-99-luar-negeri/blob/main/pilpres/hitung-suara/sub/99-luar-negeri/sub/75-mexico-city-mexico/sub/01-mexico-city-mexico/sub/0001-mexico-city-mexico/sub/002-tps-001/sub/paslon-3.txt
 
 ## Foto C Plano
 
